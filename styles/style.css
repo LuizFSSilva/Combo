@@ -162,3 +162,8 @@ body {
 .lista__link a:active {
     color: #fa95fa;
 }
+
+.botao__secundario:hover {
+    background-color: #686c7296;
+    color: var(--branco-principal)
+}
